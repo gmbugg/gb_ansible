@@ -1,0 +1,4 @@
+---
+clouds:
+  openstack:
+    secgroup_source: nova
